@@ -19,5 +19,3 @@ hello_t(["Tim", "Tom", "Jim"]) do
     puts "Hi, #{name}"
   end
 end
-# call your method here!
-
